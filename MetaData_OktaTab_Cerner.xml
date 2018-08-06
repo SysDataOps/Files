@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><md:EntityDescriptor xmlns:md="urn:oasis:names:tc:SAML:2.0:metadata" entityID="http://www.okta.com/exk20d5n579uGD0TS0i7"><md:IDPSSODescriptor WantAuthnRequestsSigned="false" protocolSupportEnumeration="urn:oasis:names:tc:SAML:2.0:protocol"><md:KeyDescriptor use="signing"><ds:KeyInfo xmlns:ds="http://www.w3.org/2000/09/xmldsig#"><ds:X509Data><ds:X509Certificate>MIIDmDCCAoCgAwIBAgIGAV2hVY4fMA0GCSqGSIb3DQEBCwUAMIGMMQswCQYDVQQGEwJVUzETMBEG
+A1UECAwKQ2FsaWZvcm5pYTEWMBQGA1UEBwwNU2FuIEZyYW5jaXNjbzENMAsGA1UECgwET2t0YTEU
+MBIGA1UECwwLU1NPUHJvdmlkZXIxDTALBgNVBAMMBG5oc2kxHDAaBgkqhkiG9w0BCQEWDWluZm9A
+b2t0YS5jb20wHhcNMTcwODAyMDUwNDI1WhcNMjcwODAyMDUwNTI0WjCBjDELMAkGA1UEBhMCVVMx
+EzARBgNVBAgMCkNhbGlmb3JuaWExFjAUBgNVBAcMDVNhbiBGcmFuY2lzY28xDTALBgNVBAoMBE9r
+dGExFDASBgNVBAsMC1NTT1Byb3ZpZGVyMQ0wCwYDVQQDDARuaHNpMRwwGgYJKoZIhvcNAQkBFg1p
+bmZvQG9rdGEuY29tMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAg5EYb82XdqvL7xnV
+Ujl4qDO4z/G36O/01l0wvgvMDjF8IuOT2j13ykVdjgEZz19ygz2dKMO6IAuKx5KVCRaYpDmpcNNl
+3FEUqknSLJtyGX2bSnL0Ig+mJPwKUMfmqmUvJ0lET/+M/FqCQDApUxfCW0j/+9hc9nxvZqpbkTsU
+ojTd8x/bZYW1ziETWbZbnyN40uXxfrX09ZaAy6FwGlajM2A0tPCAAaCM+C0r8bX0pqEfr9KJH1gB
+6yMb1uw0dE3F5Bl2RegnS5hv3rNcWsVjj59BU9ODDcWZyYNn89RVgQHD2Qs5EnJ6oCSrYlmxjcII
+on5NLW1kT4tQUUNLJN0JwQIDAQABMA0GCSqGSIb3DQEBCwUAA4IBAQAIXCw9jU40wTefHIIhXZQG
+S4LOivnD+FHyIt0CQNzdiJ1GltuCmCKQ+guxREEZ1h6H8j/9NNNyZhTtRxj5f9k9Z04GduRn+brD
+pjUoxtumaHMGnvOKfjYBF9+F3RFVCbULOvGBwK54JbHCwBadIO/BBLltn6a6sO9ENkcoGnEWdLQs
+9llDKBVkA7d/fSxaS2+IKm8T5Q1a9T//wbHUJIFy/1FZ8AD0BMluhq7IvjNzQvOdLL4Fex2eo9gg
+zM/ns/AotNzWbpa0cVgcwmoBgpNQpjP4aQue4s/Fxsro7xjypnRtHEih2na3286N5PYSvUGW8ftj
+6JoKUvD1xVZbbRgS</ds:X509Certificate></ds:X509Data></ds:KeyInfo></md:KeyDescriptor><md:NameIDFormat>urn:oasis:names:tc:SAML:1.1:nameid-format:unspecified</md:NameIDFormat><md:NameIDFormat>urn:oasis:names:tc:SAML:1.1:nameid-format:emailAddress</md:NameIDFormat><md:SingleSignOnService Binding="urn:oasis:names:tc:SAML:2.0:bindings:HTTP-POST" Location="https://nhsi.okta-emea.com/app/nhsimprovement_tableaucerner_1/exk20d5n579uGD0TS0i7/sso/saml"/><md:SingleSignOnService Binding="urn:oasis:names:tc:SAML:2.0:bindings:HTTP-Redirect" Location="https://nhsi.okta-emea.com/app/nhsimprovement_tableaucerner_1/exk20d5n579uGD0TS0i7/sso/saml"/></md:IDPSSODescriptor></md:EntityDescriptor>
